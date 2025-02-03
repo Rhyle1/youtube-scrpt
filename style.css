@@ -1,0 +1,38 @@
+.container{
+  width: 300px;
+  display: inline-block;
+  vertical-align: top;
+
+}
+.container-1{
+  width: 300px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+
+
+.pogi{
+  margin-top: 0;
+  width: 190px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.pogi-image{
+  width: 30px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.image{
+  width: 300px;
+  
+}
+.search-bar{
+  display: block;
+}
+.profile-picture{
+  width: 100%;
+  vertical-align: top;
+}
