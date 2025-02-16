@@ -3,11 +3,26 @@
   display: inline-block;
   vertical-align: top;
 
+
 }
 .container-1{
   width: 300px;
   display: inline-block;
   vertical-align: top;
+  max-width: 100vw;
+  background-color: red;
+}
+.input1{
+  display: block;
+  width: 450px;
+  height: 30px;
+  margin-bottom: 20px;
+  justify-self: center;
+  border: 1;
+
+}
+.ytcontainer{
+ 
 }
 
 
